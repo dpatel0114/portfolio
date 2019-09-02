@@ -1,26 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import NavigationBar from './Components/NavigationBar';
+import Homepage from './Components/HomePage';
+import AboutMe from './Components/AboutMe';
+
 
 function App() {
   return (
-    <div className="App">
-      Dhara Patel portfolio
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
-    </div>
+    <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
+    <NavigationBar/>
+    <Homepage/> 
+    <AboutMe/>
+    </body>
   );
 }
 
