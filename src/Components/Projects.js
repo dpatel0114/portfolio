@@ -28,12 +28,13 @@ const Projects =() => {
             <li class="list-group-item"> {p.framework} </li>
             {/* <li class="list-group-item"> {p.project_url} </li> */}
             <li class="list-group-item"> {p.credentials} </li>
+
           </ul>
         
-          {/* <a href="#" class="card-link">Card link</a>
+          {/* <a href="https://github.com/dpatel0114/National-Parks-Navigator" class="card-link">Github repo</a>
           <a href="#" class="card-link">Another link</a> */}
         </div>
-
+          
     </div>  ) }
     </div>
     {/* </div> */}

@@ -5,7 +5,8 @@ import App from './App';
 import * as serviceWorker from './serviceWorker'
 import './css/animate.css';
 import './css/flexslider.css';
-import './fonts/icomoon/style.css';
+// import './fonts/icomoon/style.css';
+import '@fortawesome/fontawesome-free/css/all.css'
 
 import './css/bootstrap.css';
 import './css/style.css'

@@ -21,7 +21,7 @@ return (
         </div>
       </div>
    </nav>
-)
+  )
 }
 
 export default NavigationBar;
