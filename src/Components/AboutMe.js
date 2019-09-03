@@ -9,7 +9,7 @@ return (
       <div class="container">
         <div class="row mb-5 align-items-center">
           <div class="col-lg-4 pr-lg-5 mb-5 mb-lg-0">
-            <img src="/images/dharapic.png" alt="Image placeholder" class="img-fluid"/>
+            <img src="images/dharapic.png" alt="Image placeholder" class="img-fluid"/>
           </div>
           <div class="col-lg-5 pl-lg-5">
             <div class="section-heading">
