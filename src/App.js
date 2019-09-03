@@ -10,6 +10,12 @@ import Blog from './Components/Blog'
 function App() {
   return (
     <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
+    {/* <script src="./js/custom.js"></script> */}
+    {/* <script src="./js/vendor/jquey.min.js"></script> */}
+   
+
+
+
         <NavigationBar/>
         <Homepage/> 
         <AboutMe/>

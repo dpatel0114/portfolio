@@ -9,8 +9,10 @@ import './fonts/icomoon/style.css';
 
 import './css/bootstrap.css';
 import './css/style.css'
+// import './js/scripts.js'
+// import * from './js/vendor/jquery.min.js'
+// import './js/custom.js'
 
-// import './js/vendor/jquery.min.js'
 // import './js/vendor/popper.min.js'
 // import './js/vendor/bootstrap.min.js'
 // import './js/vendor/jquery.easing.1.3.js'
