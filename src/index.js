@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import 'index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker'
-import './css/animate.css';
-import './css/flexslider.css';
+import 'css/animate.css';
+import 'css/flexslider.css';
 // import './fonts/icomoon/style.css';
 import '@fortawesome/fontawesome-free/css/all.css'
 
-import './css/bootstrap.css';
-import './css/style.css'
+import 'css/bootstrap.css';
+import 'css/style.css'
 // import './js/scripts.js'
 // import * from './js/vendor/jquery.min.js'
 // import './js/custom.js'
