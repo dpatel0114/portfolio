@@ -31,8 +31,16 @@ const blogDetail = [
     id: 5,
     title: "Singly-Linked List in JavaScript",
     url: "https://medium.com/@1991dharapatel/singly-linked-list-in-javascript-aafc71e0cf73",
-    img_url: "images/blog_5.png",
+    img_url:"images/blog_5.png",
     description: "A linked list is a way to store a collection of elements. Like an array these can be character or integers..."
+  },
+  {
+    id: 6,
+    title: "JavaScript - Stacks and Queues",
+    url: "https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359",
+    img_url: "images/blog_6.png",
+    description: "Today we will learn about the basics of what a stacks and queue are. Stacks and Queues are ordered lists of things..."
+
   }
 
 ]
