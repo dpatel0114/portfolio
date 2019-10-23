@@ -26,6 +26,13 @@ const blogDetail = [
     url: "https://medium.com/@1991dharapatel/beginners-guide-for-d3-js-21e61e888b0",
     img_url: "images/blog_4.png",
     description: "D3 stands for Data-Driven Document. It is an open-source Javascript library developed by Mike Bostock to create..",
+  },
+  {
+    id: 5,
+    title: "Singly-Linked List in JavaScript",
+    url: "https://medium.com/@1991dharapatel/singly-linked-list-in-javascript-aafc71e0cf73",
+    img_url: "images/blog_5.png",
+    description: "A linked list is a way to store a collection of elements. Like an array these can be character or integers..."
   }
 
 ]
