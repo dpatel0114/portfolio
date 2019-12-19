@@ -19,7 +19,7 @@ return (
             <p class="mb-5  ">Experienced in Ruby on Rails, React, Redux, JavaScript, PostgreSQL, HTML, CSS, GitHub, Bootstrap, Travis CI, and API.</p>
 
             <p>
-              <a href="images/Resume - Dhara Patel 082919.pdf" target="_blank" class="btn btn-secondary px-4 py-2 btn-sm">Download Resume</a>
+              <a href="images/Resume.pdf" target="_blank" class="btn btn-secondary px-4 py-2 btn-sm">Download Resume</a>
             </p>
           </div>
         </div>

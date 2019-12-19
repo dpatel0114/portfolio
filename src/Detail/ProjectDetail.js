@@ -16,7 +16,7 @@ const ProjectDetail = [
     img_url: "images/project2.png",
     description: "National Parks Explorer is the App where you can find park and you can log past and future visits you like.",
     framework: "The backend with a Ruby on Rails framework while the frontend with a React-Redux framework.",
-    // project_url: "https://investiversity.firebaseapp.com",
+    project_url: "https://github.com/dpatel0114/National-Parks-Navigator",
     github : "https://github.com/dpatel0114/National-Parks-Navigator"
   }
 

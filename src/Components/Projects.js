@@ -19,9 +19,9 @@ const Projects =() => {
     <div class="row" style={{margin: "3%"}}>
    { ProjectDetail.map(p => 
     <div class="card text-center " style= {{width: '28%', marginLeft:"2%"}}>
-        <a href="https://investiversity.firebaseapp.com" target="_blank"> <img  class='card-link' src={p.img_url}  class="card-img-top" alt="..."/> </a>
+        <a href={p.project_url} target="_blank"> <img  class='card-link' src={p.img_url}  class="card-img-top" alt="..."/> </a>
         <div class="card-body">
-         <h3> <a href="https://investiversity.firebaseapp.com" target="_blank" class="card-title card-link"> <strong> {p.title} </strong> </a> </h3>
+         <h3> <a href={p.project_url} target="_blank" class="card-title card-link"> <strong> {p.title} </strong> </a> </h3>
           <p class="card-text"> {p.description} </p>
        
           <ul class="list-group list-group-flush">
