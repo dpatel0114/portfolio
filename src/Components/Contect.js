@@ -11,7 +11,7 @@ const Contenct = () => {
         <div class="row">
           <div class="col-md-12 mb-5">
             <div class="section-heading text-center">
-              <h2> Contenct <strong>  Me </strong></h2>
+              <h2> Contact <strong>  Me </strong></h2>
             </div>
           </div>
         

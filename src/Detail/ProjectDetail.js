@@ -8,7 +8,7 @@ const ProjectDetail = [
     description: "An Investiversity app gives you virtual money to play with stock and learn how to buy and sell stock.",
     framework: "The backend with a Ruby on Rails framework while the frontend with a React-Redux framework.",
     project_url: "https://investiversity-app.firebaseapp.com",
-    credentials: "Username: demo | Password: demo123",
+    credentials: "Username: test| Password: test123",
   },
   {
     id: 2,
